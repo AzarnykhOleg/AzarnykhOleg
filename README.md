@@ -20,7 +20,8 @@
 
 ## 🤝 Connect with me
 
-[gmail](mailto:olazar61@gmail.com)
+[Mail](mailto:olazar61@gmail.com)
+
 [Telegram](https://t.me/AzOV1983)
 
 <!--
