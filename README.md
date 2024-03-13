@@ -21,7 +21,7 @@
 ## 🤝 Connect with me
 
 [gmail](mailto:olazar61@gmail.com)
-[[Telegram](https://t.me/AzOV1983)](https://t.me/AzOV1983)
+[Telegram](https://t.me/AzOV1983)
 
 <!--
 **AzarnykhOleg/AzarnykhOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
