@@ -20,7 +20,7 @@
 
 ## 🤝 Connect with me
 
-[![olazar61@gmail.com](https://img.shields.io/badge/i@ksergey.ru%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:olazar61@gmail.com)
+[![olazar61@gmail.com]](mailto:olazar61@gmail.com)
 [![iksergeyru](https://img.shields.io/badge/@iksergeyru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iksergeyru)
 
 <!--
