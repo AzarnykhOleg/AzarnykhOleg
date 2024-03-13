@@ -20,8 +20,8 @@
 
 ## 🤝 Connect with me
 
-[olazar61@gmail.com](mailto:olazar61@gmail.com)
-[![iksergeyru](https://img.shields.io/badge/@iksergeyru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iksergeyru)
+[gmail](mailto:olazar61@gmail.com)
+[[Telegram](https://t.me/AzOV1983)](https://t.me/AzOV1983)
 
 <!--
 **AzarnykhOleg/AzarnykhOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
